@@ -6,5 +6,5 @@ module.exports = function reverse (n) {
     let i = parseInt(d.join(''))
     
     return(i);
-    
+//     return Number(String(n).split('').reverse().join('')) second decision
 }
